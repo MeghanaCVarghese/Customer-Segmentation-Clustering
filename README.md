@@ -108,10 +108,11 @@ The goal is to uncover hidden patterns in customer behavior for better business 
 ## 📸 Visualizations
 
 ### 🔹 Elbow Method
-![Elbow](https://github.com/MeghanaCVarghese/Customer-Segmentation-Clustering/blob/64e2b0a7060383bdb8cdb8a8f8f9d9fe661f9557/Elbow_Curve_KMeans.jpg)
+![Elbow](Elbow_Curve_KMeans.jpg)
 
 ### 🔹 Cluster Visualization
-![Clusters](outputs/clusters_visualization.png)
+![Clusters](PCA_Projection_KMeans_Clustering.jpg)
+![Clusters](PCA_Projection_DBSCAN_Clustering.jpg)
 
 ---
 
