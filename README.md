@@ -16,6 +16,14 @@ The goal is to uncover hidden patterns in customer behavior for better business 
 
 ---
 
+## ❗ Problem Statement
+
+Businesses struggle to identify different customer types from raw data.
+
+This project solves that by grouping customers into meaningful segments using clustering.
+
+---
+
 ## 🎯 Objectives
 
 - Perform clustering on airline customer data  
@@ -91,10 +99,19 @@ The goal is to uncover hidden patterns in customer behavior for better business 
 
 ## 💡 Key Learnings
 
-- Understanding differences between partition-based and density-based clustering
-- Importance of feature scaling in clustering
-- How to evaluate clustering performance visually
-- Handling real-world unsupervised learning problems
+- Importance of feature scaling in clustering algorithms  
+- Differences between partition-based (K-Means) and density-based (DBSCAN) clustering  
+- How to evaluate clustering performance using visual techniques like the Elbow Method  
+- Handling real-world unsupervised datasets and identifying patterns  
+- Detecting noise and outliers using DBSCAN  
+
+---
+
+## 🧠 Business Interpretation
+
+- Cluster 1: High-value frequent flyers → Target with premium offers
+- Cluster 2: Low activity customers → Re-engagement campaigns
+- Cluster 3: High bonus usage → Loyalty-focused strategies
 
 ---
 
@@ -113,6 +130,13 @@ The goal is to uncover hidden patterns in customer behavior for better business 
 ### 🔹 Cluster Visualization
 ![Clusters](PCA_Projection_KMeans_Clustering.jpg)
 ![Clusters](PCA_Projection_DBSCAN_Clustering.jpg)
+
+---
+
+## 📊 Evaluation
+
+- Elbow Method used to determine optimal clusters
+- DBSCAN used to identify noise and outliers
 
 ---
 
