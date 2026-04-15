@@ -1,9 +1,16 @@
 
 # 🚀 Customer Segmentation using Clustering Algorithms
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Clustering-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![K-Means](https://img.shields.io/badge/Algorithm-K--Means-orange)
+![DBSCAN](https://img.shields.io/badge/Algorithm-DBSCAN-yellow)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-purple)
+![Unsupervised Learning](https://img.shields.io/badge/Learning-Unsupervised-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/MeghanaCVarghese/Customer-Segmentation-Clustering)
 
 ---
 
