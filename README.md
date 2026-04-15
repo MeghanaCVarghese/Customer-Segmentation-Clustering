@@ -126,6 +126,8 @@ pip install -r requirements.txt
 ## Run the notebook:
 jupyter notebook notebooks/clustering_analysis.ipynb
 
+---
+
 ## 👩‍💻 Author
 
 Meghana C Varghese
